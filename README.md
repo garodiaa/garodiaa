@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourav Garodia</h1>
 <h3 align="center">A Computer Science Student | Competitive Programmer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=garodiaa&label=Profile%20views&color=0e75b6&style=flat" alt="garodiaa" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=garodiaa&label=Profile%20views&color=ffae00&style=flat" alt="garodiaa" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
