@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 A Computer Science Student<br>⚡ Competitive Programmer
+😎 A Computer Science Student<br>
 
 
 ## 🌐 Socials:
