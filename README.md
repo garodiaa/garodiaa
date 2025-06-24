@@ -1,4 +1,4 @@
-f# Hi! I am Sourav Garodia:
+# Hi! I am Sourav Garodia:
 😎 A Computer Science Student<br>
 
 
